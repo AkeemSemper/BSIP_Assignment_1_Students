@@ -27,7 +27,7 @@ jobs:
       - name: Open Original Repository
         uses: actions/checkout@v4
         with:
-          repository: 'AkeemSemper/BSIP_Assignmnet_1_Students'
+          repository: 'AkeemSemper/BSIP_Assignment_1_Students'
           ref: 'main'
 
           #token: ${{ secrets.GH_PAT }}
